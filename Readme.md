@@ -33,4 +33,4 @@ distances: An array containing the distances to each of the 6 nearest neighbors.
 indices: An array containing the indices of the 6 nearest neighbors.
 
 steps 8:
-        Give one move it recommend the 5 movies.
+        Give one moive and  it give  5 movies as recommended.
